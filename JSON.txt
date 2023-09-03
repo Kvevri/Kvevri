@@ -1,0 +1,16 @@
+[
+	{
+		"email" : "1test@mail.ru" ,
+		"password" : "123"
+	},
+	{
+		"email" : "2test@mail.ru" ,
+		"password" : "456"
+	},
+	{
+		"email" : "eve.holt@reqres.in" ,
+		"password" : "pistol"
+	}
+]	
+	
+	
